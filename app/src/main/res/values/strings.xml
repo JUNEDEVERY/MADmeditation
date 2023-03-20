@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Настоящий чай</string>
+    <string name="Register">Register</string>
+    <string name="SignIn">Sign In</string>
+    <string name="Profile">Профиль</string>
+    <string name="Password">Пароль</string>
+    <string name="Hello">ПРИВЕТ</string>
+    <string name="Email">Email</string>
+    <string name="HowAreYou">Каким ты себя ощущаешь сегодня?</string>
+    <string name="There_will_be_a_menu_here">Тут будет меню</string>
+    <string name="Login">Войти в аккаунт</string>
+    <string name="goRegistration">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="registration">Тут будет \nрегистрация</string>
+    <string name="relax">Наслаждайся отборочными. \n Будь внимателен. \n Делай хорошо.</string>
+    <string name="There_will_be_listening">Тут будет \n прослушивание</string>
+    <string name="Date">Дата создания</string>
+    <string name="closed">закрыть</string>
+    <string name="delete">удалить</string>
+</resources>
